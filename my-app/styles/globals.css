@@ -100,8 +100,10 @@ button:hover {
 
 .images {
   margin-top: 75px;
-  display: grid;
+  display: flex;
   gap: 25px;
+  flex-flow: column;
+  align-items: center;
 }
 
 img {
@@ -125,4 +127,10 @@ img {
   } 100% {
     transform: rotate(360deg);
   }
+}
+
+.prompt {
+  color: #FFF;
+  font-weight: 600;
+  font-size: 17px;
 }
