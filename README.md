@@ -7,8 +7,3 @@ Auto meme generator using GPT-3 (generate pretrained transformers) which generat
 This project uses a mix of typescript and javascript NextJS with axios for API requests (npx create-next-app@latest).
 
 I also use Github Codespaces for remote programming and Github CLI to push changes.
-
-
-# Time it took
-
-It took about 20 minutes to make the entire thing so it's not perfect. It was also done in a distracting class which makes it harder to focus.
